@@ -213,4 +213,4 @@ Example record:
 | **Institution** | New Horizon |
 | **Supervisor / Instructor** | `[INSTRUCTOR NAME]` |
 | **Date** | November 13, 2026 |
-| **GitHub** | N/A |
+| **GitHub** | https://github.com/smart1234sve-star/student-result |
